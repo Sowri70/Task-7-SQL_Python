@@ -14,7 +14,7 @@ The task involved :
   
 6)    SUM and COUNT aggregations were used in queries.
 7)    GROUP BY and ORDER BY were used to group and filter records
-8)    Created Bar and Stack Bar Charts were created for 'Total Sales per product'
+8)    Created Bar and Stack Bar Charts for 'Total Sales per product'
 9)    Line Chart was made to highlight daily sales
 
 Challenges :
